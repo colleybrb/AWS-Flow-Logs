@@ -6,7 +6,7 @@ Take all data needed, export to csv. All nodes have to be unique and contigous. 
 
 
 ### There are three main cell blocks in this example
-* 1. Push external suspicious IP's that are the source going to internal IP's.
+1. Push external suspicious IP's that are the source going to internal IP's.
 2. Push internal IP's as the source going to malicious IP's.
 3. Clear the database to rerun the the above.
 
